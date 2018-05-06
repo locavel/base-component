@@ -1,6 +1,6 @@
 {
   "name": "@locavel/base-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base React component that provides automatically bind all instance methods.",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
