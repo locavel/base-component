@@ -1,6 +1,6 @@
 # @locavel/base-component
 
-[![npm version](https://badge.fury.io/js/@locavel/base-component.svg)](http://badge.fury.io/js/@locavel/base-component)
+[![npm version](https://badge.fury.io/js/%40locavel%2Fbase-component.svg)](https://badge.fury.io/js/%40locavel%2Fbase-component)
 [![Dependency Status](https://david-dm.org/locavel/base-component.svg)](https://david-dm.org/locavel/base-component)
 [![devDependency Status](https://david-dm.org/locavel/base-component/dev-status.svg)](https://david-dm.org/locavel/base-component?type=dev)
 
