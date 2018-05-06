@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default class BaseComponent extends React.Component {
+export default class BaseComponent<P = {}, S = {}, SS = any> extends React.Component<P, S, SS> {
   constructor (props: any, context?: any) {
     super(props, context);
     this.autoBind();
