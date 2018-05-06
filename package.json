@@ -1,0 +1,31 @@
+{
+  "name": "@locavel/base-component",
+  "version": "1.0.0",
+  "description": "Base React component that provides automatically bind all instance methods.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locavel/base-component.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Lohn IMAI <mail@lohn.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/locavel/base-component/issues"
+  },
+  "homepage": "https://github.com/locavel/base-component#readme",
+  "devDependencies": {
+    "@types/react": "^16.3.13",
+    "react": "^16.3.2",
+    "typescript": "^2.8.3"
+  },
+  "peerDependencies": {
+    "react": ">= 15"
+  }
+}
